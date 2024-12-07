@@ -1,0 +1,7 @@
+---
+title: "Github Pages Blog Test"
+date: 2024-12-07
+---
+
+LLM Fine-Tuning with Apple MLX
+It had been a longstanding belief that ML training and inference could only be performed on Nvidia GPUs. However, this perspective has changed with the release of the ML framework MLX, which enables ML training and inference on Apple Silicon CPUs/GPUs. The MLX library, developed by Apple, is akin to TensorFlow and PyTorch and supports GPU-backed tasks. This library allows for the fine-tuning of LLMs on the new Apple Silicon (M-Series) chips. Additionally, MLX supports the use of the LoRA method for LLM fine-tuning. I have successfully fine-tuned several LLMs, including Llama-3 and Mistral, using MLX with LoRA.
